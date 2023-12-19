@@ -16,6 +16,10 @@ Video of the CAD from all angles and exploded view
 " target="_blank"><img src="http://img.youtube.com/vi/g1IWNV8mGxI/0.jpg" 
 alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
 
+### Software Flowchart and GUI
+![image](https://github.com/Cooper-hub/projects/assets/83514432/d8b1e8a8-8fd1-43a7-8895-ea6da91cce97)
+![image](https://github.com/Cooper-hub/projects/assets/83514432/7989ebd7-345c-48a7-aa5d-0d0fc1e18c20)
+
 ### Final Product 
 
 ![image](https://user-images.githubusercontent.com/83514432/196843862-59fb0741-9036-4c4b-9b5c-bdf1627123c3.png)
